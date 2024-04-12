@@ -1,4 +1,9 @@
-# Main extension
+---
+sidebar_position: 1
+---
+
+# General Architecture Overview
+
 
 ![Docusaurus logo](/img/webview-diagram.png)
 
